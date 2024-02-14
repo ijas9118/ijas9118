@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🎓 Final year B.Tech student at [SCMS School of Engineering and Technology](https://www.youtube.com/watch?v=x-sTarGOwq0).
+💻 Passionate about mastering the MERN stack and dedicatedly working towards it.
+🚀 Currently focusing on mastering JavaScript, a fundamental skill for web development.
+🔍 Looking forward to leveraging my skills to build innovative and impactful projects.
+🤝 Feel free to reach out for collaborations, discussions, or just to say hello!
+
+Feel free to copy and paste this directly into your GitHub profile!
 <!--
 **ijas9118/ijas9118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
