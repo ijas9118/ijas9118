@@ -1,23 +1,9 @@
-### Hi there 👋
+### Hi, I'm Ijas! 👋
 
-🎓 Final year B.Tech student at [SCMS School of Engineering and Technology](https://www.youtube.com/watch?v=x-sTarGOwq0).
-💻 Passionate about mastering the MERN stack and dedicatedly working towards it.
-🚀 Currently focusing on mastering JavaScript, a fundamental skill for web development.
-🔍 Looking forward to leveraging my skills to build innovative and impactful projects.
-🤝 Feel free to reach out for collaborations, discussions, or just to say hello!
+🎓 Final year B.Tech student at [SCMS School of Engineering and Technology](https://www.youtube.com/watch?v=x-sTarGOwq0).<br/>
+💻 Passionate about mastering the MERN stack and dedicatedly working towards it.<br/>
+🚀 Currently focusing on mastering JavaScript, a fundamental skill for web development.<br/>
+🔍 Looking forward to leveraging my skills to build innovative and impactful projects.<br/>
+🤝 Feel free to reach out for collaborations, discussions, or just to say hello!<br/><br/>
 
-Feel free to copy and paste this directly into your GitHub profile!
-<!--
-**ijas9118/ijas9118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ijas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
