@@ -1,5 +1,3 @@
-<img align='right' src="https://visitcount.itsvg.in/api?id=ijas9118&icon=6&color=4"/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ijas+Ahammed!;" />
 </h1>
@@ -10,7 +8,7 @@
 
 <div align="center">
   
-🎓 A final year B.Tech student at [SCMS School of Engineering and Technology](https://www.youtube.com/watch?v=x-sTarGOwq0)
+🎓 B.Tech graduate from [SCMS School of Engineering and Technology](https://www.youtube.com/watch?v=x-sTarGOwq0)
 
  💻 Passionate about the MERN stack and dedicatedly working towards mastery
 
@@ -42,26 +40,6 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,c,cpp,java,dart,mysql,firebase,ai" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ijas9118&theme=radical&hide_border=false&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijas9118&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ijas9118&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="github trophies"/>
-</div>
 <br/>
 <hr/>
 
