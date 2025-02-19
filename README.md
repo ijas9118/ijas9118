@@ -1,16 +1,18 @@
-![Ijas Ahammed](https://github.com/user-attachments/assets/0aa6603d-61f9-400e-82ad-454a46cffdf5)
+![Ijas Ahammed-2](https://github.com/user-attachments/assets/46f09fa1-9664-4b9e-9b2c-779618ae1ea3)
 
 <h1 align="center">Hello 👋, I'm Ijas</h1>
 <h3 align="center">Full Stack Developer</h3>
+<div align="center">
+    
+<img align='center' width='400' alt='Coding' src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp"/>
+</div>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
 - 💬 Ask me about **React & Node.js**
-
-
-<img align='right' width='400' alt='Coding' src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a>
@@ -89,4 +91,4 @@
 </div>
 <hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=dark&locale=en" alt="ijas9118" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=dark&locale=en" alt="ijas9118" />
