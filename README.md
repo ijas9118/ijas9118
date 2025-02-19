@@ -2,11 +2,9 @@
 
 <h1 align="center">Hello 👋, I'm Ijas</h1>
 <h3 align="center">Full Stack Developer</h3>
-<div align="center">
-    
-<img align='center' width='400' alt='Coding' src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp"/>
-</div>
 
+<br/>
+<img align='right' width='400' alt='Coding' src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp"/>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -14,11 +12,15 @@
 
 - 💬 Ask me about **React & Node.js**
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ijas-ahammed-b51904214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijas-ahammed-b51904214" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ijas_9118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ijas_9118" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -90,5 +92,7 @@
     </a> 
 </div>
 <hr/>
-
+<div align='center'>
+    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=dark&locale=en" alt="ijas9118" />
+</div>
