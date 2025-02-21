@@ -16,10 +16,17 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ijas-ahammed-b51904214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijas-ahammed-b51904214" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ijas_9118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ijas_9118" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/ijas-ahammed-b51904214" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijas-ahammed-b51904214" height="30" width="40" />
+    </a>
+    <a href="https://x.com/ijas9118" target="blank">
+        <img align="center" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="ijas9118" height="50" width="50" />
+    </a>
+    <a href="https://www.leetcode.com/ijas_9118" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ijas_9118" height="30" width="40" />
+    </a>
 </p>
 
 <br/>
