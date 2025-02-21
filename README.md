@@ -6,6 +6,8 @@
 <br/>
 <img align='right' width='400' alt='Coding' src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp"/>
 
+- 🎓 I’m a B.Tech Graduate in CS
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help with **Machine Learning**
