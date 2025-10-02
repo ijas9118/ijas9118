@@ -57,7 +57,7 @@
 </p>
 
 <hr/>
-<div align='start'>
+<div align='center'>
      <img src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
     
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ijas_9118?theme=dark&font=Scada&ext=heatmap)
