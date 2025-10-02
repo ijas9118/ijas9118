@@ -57,8 +57,8 @@
 </p>
 
 <hr/>
-<div align='center'>
-     <img src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
-    
-![LeetCode Stats](https://leetcard.jacoblin.cool/ijas_9118?theme=dark&font=Scada&ext=heatmap)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ijas9118&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
+  <img src="https://leetcard.jacoblin.cool/ijas_9118?theme=dark&font=Scada" alt="LeetCode Stats"/>
+</p>
+
